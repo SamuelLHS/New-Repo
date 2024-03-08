@@ -12,8 +12,9 @@ public class Student {
 
     /*
      * Sets study planner and scanner
+     * hello
      */
-    public Student() {
+    public Student()  {
         planner = new StudyPlanner();
         scanner = new Scanner(System.in);
     }
